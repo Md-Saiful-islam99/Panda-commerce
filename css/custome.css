@@ -1,0 +1,39 @@
+.cm-bg{
+    background-color:#fceae8 ;
+}
+.cm-bg-c-w{
+    background-image: linear-gradient(rgb(68, 0, 255),rgb(0, 225, 255));
+
+}
+.cm-bg-c-b{
+    background-image: linear-gradient(rgb(241, 142, 12),rgb(255, 0, 242));
+
+}
+.cm-bg-c-s{
+    background-image: linear-gradient(rgb(255, 238, 0),rgb(133, 204, 18));
+
+}
+.cm-bg-gradient-blue{
+    background-image: linear-gradient(to top, rgba(223, 113, 208, 0), rgb(37, 135, 247));
+}
+.cm-bg-gradient-orange{
+    background-image: linear-gradient(to top, rgba(223, 113, 208, 0), rgb(247, 121, 37));
+}
+.cm-bg-gradient-yellow{
+    background-image: linear-gradient(to top, rgba(223, 113, 208, 0), rgb(247, 216, 37));
+}
+
+
+.border-rounded{
+    border-radius: 15px;
+}
+.cm-pad{
+    padding: 50px;
+}
+
+/* background-image: linear-gradient(to top, rgba(223, 113, 208, 0), rgb(37, 135, 247));
+
+ background-image: linear-gradient(to top, rgba(223, 113, 208, 0), rgb(247, 216, 37));
+
+ background-image: linear-gradient(to top, rgba(223, 113, 208, 0), rgb(247, 121, 37));
+ */
